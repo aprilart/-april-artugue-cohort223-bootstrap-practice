@@ -1,0 +1,104 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.my-container {        
+    height: 100%;
+    width: 100%; 
+    border: dotted 5px brown; 
+}
+
+.row-one-col-one {
+    border: solid 1px blue;
+   
+
+}
+
+.row-one-col-two {
+    border: solid 1px rebeccapurple;
+    
+}
+
+.row-one-col-three {
+    border: solid 1px olive;
+    
+}
+
+.row-two-col-one {
+    border: solid 1px khaki;
+    
+}
+
+.row-two-col-two {
+    border: solid 1px black;
+    
+}
+
+.row-two-col-three {
+    border: solid 1px orange;
+    
+}
+
+.row-three-col-one {
+    border: solid 1px palegreen;
+
+}
+
+.row-three-col-two {
+    border: solid 1px blueviolet;
+    
+}
+
+.row-three-col-three {
+    border: solid 1px navy;
+    
+}
+
+.row-four-col-one {
+    border: solid 1px lightcoral;
+    
+}
+
+.row-four-col-two {
+    border: solid 1px lightgreen;
+    
+}
+
+.row-four-col-three {
+    border: solid 1px palevioletred;
+    
+}
+
+.row-five-col-one {
+    border: solid 1px rgb(112, 112, 218);
+    
+}
+
+.row-five-col-two {
+    border: solid 1px orangered;
+    
+}
+
+.row-five-col-three {
+    border: solid 1px yellowgreen;
+    
+}
+
+.row-six-col-one {
+    border: solid 1px yellow;
+    
+}
+
+.row-six-col-two {
+    border: solid 1px purple;
+    
+}
+
+.row-six-col-three {
+    border: solid 1px blue;
+    
+}
